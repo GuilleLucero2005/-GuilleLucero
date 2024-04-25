@@ -1,5 +1,5 @@
-mmendoza.com
-mmendoza.com es una plataforma de e-commerce dedicada a la moda,la tecnologia y el estilo de vida. Ofrecemos una amplia selección de ropa, accesorios, calzado,celulares,tablets,Pc,Smart Tv y productos relacionados. Nuestra misión es proporcionar a nuestros clientes una experiencia de compra conveniente y satisfactoria, ofreciendo productos de alta calidad y un excelente servicio al cliente. Únete a nosotros y descubre las últimas tendencias de moda, encuentra piezas únicas y expresa tu estilo personal en mmendoza.com.
+StyleLifeStore.com
+StyleLifeStore.com es una plataforma de e-commerce dedicada a la moda,la tecnologia y el estilo de vida. Ofrecemos una amplia selección de ropa, accesorios, calzado,celulares,tablets,Pc,Smart Tv y productos relacionados. Nuestra misión es proporcionar a nuestros clientes una experiencia de compra conveniente y satisfactoria, ofreciendo productos de alta calidad y un excelente servicio al cliente. Únete a nosotros y descubre las últimas tendencias de moda, encuentra piezas únicas y expresa tu estilo personal en mmendoza.com.
 
 Características principales:
 Amplia selección de productos de moda,tecnologia y estilo de vida.
