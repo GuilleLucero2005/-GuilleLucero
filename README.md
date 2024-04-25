@@ -1,9 +1,8 @@
-
 mmendoza.com
-mmendoza.com es una plataforma de e-commerce dedicada a la moda y el estilo de vida. Ofrecemos una amplia selección de ropa, accesorios, calzado y productos relacionados con la moda para hombres, mujeres y niños. Nuestra misión es proporcionar a nuestros clientes una experiencia de compra conveniente y satisfactoria, ofreciendo productos de alta calidad y un excelente servicio al cliente. Únete a nosotros y descubre las últimas tendencias de moda, encuentra piezas únicas y expresa tu estilo personal en mmendoza.com.
+mmendoza.com es una plataforma de e-commerce dedicada a la moda,la tecnologia y el estilo de vida. Ofrecemos una amplia selección de ropa, accesorios, calzado,celulares,tablets,Pc,Smart Tv y productos relacionados. Nuestra misión es proporcionar a nuestros clientes una experiencia de compra conveniente y satisfactoria, ofreciendo productos de alta calidad y un excelente servicio al cliente. Únete a nosotros y descubre las últimas tendencias de moda, encuentra piezas únicas y expresa tu estilo personal en mmendoza.com.
 
 Características principales:
-Amplia selección de productos de moda y estilo de vida.
+Amplia selección de productos de moda,tecnologia y estilo de vida.
 Navegación intuitiva y experiencia de compra fácil de usar.
 Pagos seguros y opciones de envío convenientes.
 Atención al cliente dedicada para ayudarte en cada paso del camino.
