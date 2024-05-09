@@ -6,4 +6,6 @@ Amplia selección de productos de moda,tecnologia y estilo de vida.
 Navegación intuitiva y experiencia de compra fácil de usar.
 Pagos seguros y opciones de envío convenientes.
 Atención al cliente dedicada para ayudarte en cada paso del camino.
-Actualizaciones frecuentes de productos y nuevas llegadas para mantenerte al día con las últimas tendencias.# -GuilleLucero
+Actualizaciones frecuentes de productos y nuevas llegadas para mantenerte al día con las últimas tendencias.
+Figma:https://www.figma.com/file/pEWsgi7Ucu7Vwlro06ZbHJ/Ecommerce-Website--Mockup-3D-Design-(Community)?type=design&node-id=1%3A2&mode=design&t=oCglr6xEFgLxBpAw-1
+# -GuilleLucero
